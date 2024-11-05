@@ -74,7 +74,7 @@ The project adheres to a standard Spring Boot structure, promoting clarity and m
 
 ## ▶️ Running the Application
 
-1. **Clone:** `git clone ` //Ritika, put your Git URL here
+1. **Clone:** `https://github.com/Ritikakar/finalProject.git ` 
 2. **Navigate:** `cd banking-application`
 3. **Build:** `mvn clean install`
 4. **Run:** `mvn spring-boot:run`
@@ -233,3 +233,9 @@ Configuration and Dependencies
 
 Database Configuration: Uses application.properties or application.yml for database settings.
 Dependencies: List of Spring Boot Starter dependencies, Spring Data JPA, and other libraries defined in pom.xml.
+
+# Contributors
+
+Ashish Asnani
+Ritika Kar
+Maanvita Alampalli
