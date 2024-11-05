@@ -79,12 +79,12 @@ Interface that extends JpaRepository<Deposit, Long>. Provides CRUD operations fo
 
 c) DepositService
 Annotated with @Service. This service class handles deposit operations.
-
 createDeposit(Deposit deposit): Verifies if the account has been created, updates the account's balance, and finally saves the deposit transaction.
+
 d) DepositController
 Handles deposit requests and issues them via the DepositController.
-
 Route: POST /api/bank/deposits: Create a new deposit.
+
 Transaction Module
 a) Transaction Entity
 A Transaction between Accounts in a Bank, maps to transactions table. 
